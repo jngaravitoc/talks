@@ -1,0 +1,22 @@
+During my Ph.D., I've been focused on modeling and developing new tools to
+understand the interaction of satellite galaxies with its host. In particular,
+I’d build time-dependent gravitational potentials of the MW in the presence of
+the Large Magellanic Cloud using Basis Field Expansions (link to video). Such a
+tool will allow investigating orbits of stellar substructures in the stellar
+halo
+such as stellar streams, globular clusters, and satellite galaxies. Such
+orbits have the potential to reveal the overall response of the DM halo and the
+accretion history of the MW. These models are very useful to interpret current
+and future data sets of the MW's stellar halo. One of my goals is to deliver
+this year the time-dependent potentials and the software to compute orbits to
+the community.
+
+The summer school will be a great opportunity to test these tools with
+interested attendants.  The scope of the summer school is very-well aligned with
+the research I’d done allowing me to participate actively in the school. Among
+many benefits such as strengthen my collaborations, broaden my interests, and
+deepen my knowledge, I am very interested in interacting with a community that
+shares similar research interests. I am also very motivated to work in a
+research project in which I can apply the tools and time-dependent potentials
+that I have developed. I’m looking forward to interacting, discuss and learn
+with everyone and have a great summer doing science and making friends.
